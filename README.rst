@@ -11,6 +11,7 @@ To enable the scheme, you need put the peaksea.vim in your $HOME/.vim/colors/
 (or %HOME%\vimfiles\colors for Windows) and put in ~/.vimrc the following:
 
 ::
+
  if !has("gui_running")
     set t_Co=256
  endif 
