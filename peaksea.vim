@@ -71,7 +71,7 @@ if &background=='light'
   hi WarningMsg		guifg=#b02000	guibg=NONE	gui=NONE
   hi WildMenu		guifg=fg	guibg=#d0d090	gui=NONE
   hi Folded		guifg=NONE	guibg=#b0e0b0	gui=NONE
-  hi FoldColumn		guifg=#686868   guibg=#b0b0b0	gui=NONE
+  hi FoldColumn		guifg=#686868   guibg=#b0e0b0	gui=NONE
   hi DiffAdd		guifg=NONE	guibg=#b0b0e0	gui=NONE
   hi DiffChange		guifg=NONE	guibg=#e0b0e0	gui=NONE
   hi DiffDelete		guifg=#002090	guibg=#d0d0d0	gui=NONE
